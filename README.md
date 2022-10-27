@@ -14,8 +14,8 @@ Procesar los diferentes datasets.
 Crear un archivo DB con el motor de SQL que quieran. Pueden usar SQLAlchemy por ejemplo.
 Realizar en draw.io un diagrama de flujo de trabajo del ETL y explicarlo en vivo (ver enlace del video a continuación).
 Realizar una carga incremental de los archivos que se tienen durante el video.
-Realizar una query en el video, para comprobar el funcionamiento de todo su trabajo. La query a armar es la siguiente: Precio promedio de la sucursal 9-1-688.
-Plus
+Realizar una query en el video, para comprobar el funcionamiento de todo su trabajo. La query a armar es la siguiente: Precio promedio de la sucursal 688.
+![Pipline](https://user-images.githubusercontent.com/104787036/198356565-ee2bf555-d960-470f-a9f7-4cd7bddd4a41.JPG)
 
 
 Glosario del trabajo:
