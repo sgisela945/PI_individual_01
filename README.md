@@ -53,6 +53,8 @@ Realizar una query en el video, para comprobar el funcionamiento de todo su trab
 
 VIDEO DEMO
 El video no dura más de 5 minutos, en el mismo, muestro y explico el proceso de extracción, transformación y carga de los datos, fundamentación de las herramientas elegidas en conjunto a la demora del trabajo. Por otra parte, expone la carga incremental asignada.
-	:sunglasses: Enlace :https://youtu.be/1oCWx4F9Tr4
+	:sunglasses: 
+	
+	📌Enlace :https://youtu.be/1oCWx4F9Tr4
 
  👩‍💻 Muchas gracias y Saludos!
