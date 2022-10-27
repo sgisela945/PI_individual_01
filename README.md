@@ -1,6 +1,6 @@
 # PI_individual_01
-MySQL Python Power Bi Anaconda Visual Studio Code GIT GitHub PuTTy WinSCP Terminal
-MySQL || Python || Power Bi || Git || GitHub 
+MySQL Python Power Bi Anaconda Visual Studio Code GIT GitHub Terminal
+MySQL || Python || Git || GitHub 
 
 Proyecto:
  01.
